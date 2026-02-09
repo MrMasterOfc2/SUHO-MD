@@ -1,3 +1,37 @@
+
+
+
+### <br>   DEPLOY_HEROKU 
+
+------------
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MrMasterOfc2/SUHO-MD)
+
+----------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center">
   <img src="https://files.catbox.moe/52358v.jpg" alt="SUHO-MD Banner" width="100%">
 </p>
